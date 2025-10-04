@@ -1,0 +1,5 @@
+{
+  "name": "Story / Joke / Quote Generator",
+  "description": "A fun, lightweight application that uses AI to generate random jokes, motivational quotes, or short stories on demand. Select a category and get inspired or entertained!",
+  "requestFramePermissions": []
+}
